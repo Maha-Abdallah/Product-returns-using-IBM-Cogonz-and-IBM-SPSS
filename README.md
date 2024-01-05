@@ -1,1 +1,2 @@
-# Product-returns-using-IBM-Cogonz-and-IBM-SPSS
+# Predict-Product-Returns-using-IBM-Cogonz-and-IBM-SPSS
+The final project for IBM training was developed utilizing IBM SPSS and IBM Cognos. The comprehensive analysis undertaken using these advanced tools has led to valuable insights. The conclusive findings pave the way for insightful recommendations aimed at enhancing the co-plan. The integration of IBM SPSS and IBM Cognos not only fortified the project's analytical depth but also positioned it to offer strategic suggestions for improvement. In conclusion, the project underscores the significance of leveraging cutting-edge technologies to inform robust conclusions and actionable recommendations for optimizing collaborative planning processes.
